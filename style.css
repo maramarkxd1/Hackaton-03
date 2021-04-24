@@ -1,0 +1,20 @@
+body {
+    background: rgb(2, 77, 95);
+}
+.contenido {
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    color: white;
+}
+button {
+    padding: 40px;
+    background-color: black;
+    border-radius: 20px;
+}
+a {
+    text-decoration: none;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}

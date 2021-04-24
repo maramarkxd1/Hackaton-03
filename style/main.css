@@ -1,0 +1,28 @@
+body {
+    background-color: #1687A0;
+}
+
+
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.formulario {
+    text-align: center;
+}
+input {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+textarea {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.boton {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #233451;
+    color: white;
+}
